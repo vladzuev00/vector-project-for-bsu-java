@@ -1,0 +1,1 @@
+# vector-project-for-bsu-java
